@@ -1,0 +1,19 @@
+{
+  "name": "whiskwishes",
+  "version": "1.0.0",
+  "description": "Whisk Wishes' pastry page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoCosta1990/WhiskWishes.git"
+  },
+  "author": "diegocosta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoCosta1990/WhiskWishes/issues"
+  },
+  "homepage": "https://github.com/DiegoCosta1990/WhiskWishes#readme"
+}
